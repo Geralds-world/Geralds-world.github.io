@@ -227,14 +227,19 @@ body {
 
 @media (max-width: 480px) {
     .card1 {
-        width: 100vw;
-        height: 70vh; 
+        width: 210px;
+        height: 280px; 
     }
 
     .blob {
-        width: 70vw; 
-        height: 35vh; 
+        width: 190; 
+        height: 270; 
     }
+
+    .bg {
+      width: 200px;
+      height: 270px;
+  }
 }
 
 
